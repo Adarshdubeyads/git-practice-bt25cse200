@@ -1,7 +1,7 @@
 MENU: 1) Greet  2) Add  3) Even/Odd  4) Exit
 Enter your choice:
 Enter your name:
-Hello, Ekansh!
+Hello, Adarsh!
 MENU: 1) Greet  2) Add  3) Even/Odd  4) Exit
 Enter your choice:
 Enter first number:
