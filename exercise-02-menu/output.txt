@@ -3,7 +3,7 @@ Enter your choice:
 Enter your name:
 Hello, Adarsh!
 MENU: 1) Greet  2) Add  3) Even/Odd  4) Exit
-Enter your choice:
+Enter your choices:
 Enter first number:
 Enter second number:
 Sum = 35
