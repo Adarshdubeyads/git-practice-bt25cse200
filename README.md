@@ -26,6 +26,3 @@ Run the program:
 
 On Windows, use `main.exe` to run the compiled program.
 
-## Issues and Pull Requests
-- Issue 1: [Add link]
-- Pull Request 1: [Add link]
