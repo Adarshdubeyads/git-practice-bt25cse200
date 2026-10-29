@@ -8,8 +8,8 @@
 This repository contains my Git practice assignment and completed programming exercises.
 
 ## Completed Exercises
-1. Exercise 01: [Exercise Name]
-2. Exercise 02: [Exercise Name]
+1. Exercise 01
+2. Exercise 02
 
 ## How to Compile and Run
 Compile using g++:
