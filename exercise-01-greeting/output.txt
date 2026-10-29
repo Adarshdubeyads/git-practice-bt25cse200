@@ -1,6 +1,6 @@
 --- input: Ekansh ---
 Enter your name:
-Hello, Ekansh! Welcome to Git Lab.
+Hello, Adarsh! Welcome to Git Lab.
 
 --- input: (empty) ---
 Enter your name:
