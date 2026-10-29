@@ -3,5 +3,5 @@ Enter your name:
 Hello, Adarsh! Welcome to Git Lab.
 
 --- input: (empty) ---
-Enter your name:
+Enter your name here:
 Name cannot be empty. Please run again and type your name.
